@@ -1,3 +1,4 @@
+#entr any string from keyword and print +ve and -ve index of each characters of the string...
 s=input('enter some string:')
 i=0
 for x in s:
