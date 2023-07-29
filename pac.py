@@ -1,6 +1,2 @@
-def add(a,b):
-    sum=(a+b)
-    print('sum')
-    #return sum
-x=add(100,200)
-print(x)
+a=25.36589
+print('the a value{:.2f}'.format(a))
